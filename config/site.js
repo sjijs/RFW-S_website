@@ -12,7 +12,7 @@ window.RFWS_SITE = {
     dataset: "",
     license: ""
   },
-  canonicalUrl: "",
+  canonicalUrl: "https://sjijs.github.io/RFW-S_website/",
   citation: "", // Insert only the author-approved BibTeX; no generated identities.
   census: [
     {family: "Soft solids", categories: 168, pool: 34641, physical: 21112, runtime: 34502, both: 21103},
